@@ -2,7 +2,6 @@
 
 ## Assignment Two - PROG3210: Mobile Applications II
 
-The application is a **Movies App** that allows users to explore and interact with movie data.
 
 ---
 
